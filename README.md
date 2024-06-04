@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> AstroBench </h1>
 
-The official repository of **AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy**.
+The official repository of **"AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy"**.
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/overview.png)
 
 ## 🆕 News
