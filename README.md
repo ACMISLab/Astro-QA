@@ -1,30 +1,30 @@
-# <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> AstroBench
+<h1 align="center"> <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> AstroBench </h1>
 
-**AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy** 官方存储库。
+The official repository of **AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy**.
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/overview.png)
 
-## 🆕 新闻
-- \[**2024 年 6 月**\] 我们发布了第一个版本(v1)，非常高兴分享我们对天文大模型的研究与见解！
+## 🆕 News
+- \[**June 2024**\] We have released the first version (v1) and are very excited to share our research and insights into astronomical macromodeling!
 
-## 评测数据集简介
-AstroBench是由xxxACMIS实验室针对天文领域下大模型生成能力的测试基准。在此项测试中，受测的中文大语言模型需要对天体物理学、天体力学、天文学、天文学史、天文学技术和方法这五个科目类别下的2709道不同类型问题做出准确且相关的回答。 我们设计了一套综合的打分系统，对于非计算题，每一道名词解释题和简答题都有标准参考答案，采用多个标准打分然后加权求和。对于客观题目，我们会提取最终最终答案，然后通过难度系数进行综合打分。
+## Review Dataset Introduction
+AstroBench is a benchmark by xxx ACMIS Labs for large language model generation capabilities in the field of astronomy. In this test, the Chinese large language models tested are required to provide accurate and relevant answers to 2709 different types of questions under five subject categories: astrophysics, celestial mechanics, astronomy, history of astronomy, and astronomical techniques and methods. We have designed a comprehensive scoring system, for non-calculated questions, each of the terminology and short answer questions has a standardized reference answer, which is scored using multiple criteria and then weighted and summed. For objective questions, we extract the final answer and then combine the scores using a difficulty factor.
 
-数据集包括以下字段：
+The dataset includes the following fields:
 
-标号,题目文本,选项
+ID,Question,Options
 
-## 论文及数据集下载
-AstroBenc论文 **待添加链接**<br>
-AstroBenc测试数据集下载地址 https://github.com/ACMISLab/AstroBench/tree/main/data<br>
-AstroBenc自动化评测地址 **待添加链接**<br>
+## Download papers and datasets
+AstroBenc Paper **Link to be added**<br>
+AstroBenc Download the test dataset https://github.com/ACMISLab/AstroBench/tree/main/data<br>
+AstroBenc Automated evaluation address **Link to be added**<br>
 
-## 💡 提示词
+## 💡 Prompt
 以下是我们在论文中使用的提示。 也可以尝试自己设计的提示词！只需要在每个任务的python代码中更改提示，然后我们就可以看到结果。
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/prompts.png)
 
-## 📌 评测方法
+## 📌 Evaluation Methodology
 下载数据集后，请使用“题目prompt”列对应的提示词向模型提问，相关脚本文件在scripts目录下。 最终结果汇总于xlsx文件中增加每类题型相关的“回答”列，存放模型的回复。请注意题目的回答要与提示词、问题编号对应。 在收集到所有回答后，请将xlsx文件提交到评测网站 
-**待添加链接**
+**Link to be added**
 
 您需要提交的xlsx文件应参照以下文件：
 Submit test samples.xlsx
@@ -33,12 +33,12 @@ Submit test samples.xlsx
 
 网站会自动计算分数，您可以选择是否将分数同步到排行榜。
 
-## Citation
+## 🤗 Citation
 If you find the code and testset are useful in your research, please consider citing
 ```
-**待添加引用**
+**References to be added**
 ```
-## 🤗 联系我们
+## 🤗 Contact us
 Jie Li: gs.lj23@gzu.edu.cn
 
 Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
