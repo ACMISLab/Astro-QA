@@ -1,6 +1,6 @@
 <h1 align="center"> <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> AstroBench </h1>
 
-**AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy** 官方存储库。
+**"AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy"** 官方存储库。
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/overview.png)
 
 ## 🆕 新闻
@@ -42,9 +42,6 @@ Submit test samples.xlsx
 Jie Li: gs.lj23@gzu.edu.cn
 
 Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
-
-## Star History
-![Star History Chart](https://api.star-history.com/svg?repos=/ACMISLab/AstroBench&type=Date)
 
 ## 使用许可证
 AstroBench 数据集的使用许可协议如下 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
