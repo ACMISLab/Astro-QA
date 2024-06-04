@@ -43,9 +43,6 @@ Jie Li: gs.lj23@gzu.edu.cn
 
 Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
 
-## Star History
-![Star History Chart](https://api.star-history.com/svg?repos=/ACMISLab/AstroBench&type=Date)
-
 ## License
 The AstroBench dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
