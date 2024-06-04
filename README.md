@@ -19,19 +19,19 @@ AstroBenc Download the test dataset https://github.com/ACMISLab/AstroBench/tree/
 AstroBenc Automated evaluation address **Link to be added**<br>
 
 ## 💡 Prompt
-以下是我们在论文中使用的提示。 也可以尝试自己设计的提示词！只需要在每个任务的python代码中更改提示，然后我们就可以看到结果。
+Below are the prompts we use in our papers. You can also try your own designed prompts! Just change the prompts in the python code for each task and then we can see the results.
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/prompts.png)
 
 ## 📌 Evaluation Methodology
-下载数据集后，请使用“题目prompt”列对应的提示词向模型提问，相关脚本文件在scripts目录下。 最终结果汇总于xlsx文件中增加每类题型相关的“回答”列，存放模型的回复。请注意题目的回答要与提示词、问题编号对应。 在收集到所有回答后，请将xlsx文件提交到评测网站 
+After downloading the dataset, please ask the model questions using the prompts corresponding to the “Question Prompt” column, the relevant scripts are located in the scripts directory. The final results will be summarized in an xlsx file with an “Answer” column for each type of question to store the model's responses. Please note that the responses to the questions should correspond to the prompts and question numbers. Once all responses have been collected, please submit the xlsx file to the review site. 
 **Link to be added**
 
-您需要提交的xlsx文件应参照以下文件：
+The xlsx file you need to submit should refer to the following document:
 Submit test samples.xlsx
 
-我们强烈建议对每一道题目进行五次不同的评估！
+We strongly recommend five different assessments for each question!
 
-网站会自动计算分数，您可以选择是否将分数同步到排行榜。
+The site calculates scores automatically and you can choose whether or not to synchronize your scores to the leaderboard.
 
 ## 🤗 Citation
 If you find the code and testset are useful in your research, please consider citing
