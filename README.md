@@ -21,6 +21,11 @@ AstroBenc Automated evaluation address **Link to be added**<br>
 ## 💡 Prompt
 Below are the prompts we use in our papers. You can also try your own designed prompts! Just change the prompts in the python code for each task and then we can see the results.
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/prompts.png)
+Furthermore, we have conducted extensive sensitivity and stability analyses on the prompt used, with the aim of selecting the optimal ones based on your specific circumstances (we highly recommend using our official prompt). The detailed experimental results are as follows:
+![image](https://github.com/ACMISLab/AstroBench/blob/main/additions/Prompt_exp0.jpg)
+![image](https://github.com/ACMISLab/AstroBench/blob/main/additions/Prompt_exp1.jpg)
+![image](https://github.com/ACMISLab/AstroBench/blob/main/additions/Prompt_exp2.jpg)
+
 
 ## 📌 Evaluation Methodology
 After downloading the dataset, please ask the model questions using the prompts corresponding to the “Question Prompt” column, the relevant scripts are located in the scripts directory. The final results will be summarized in an xlsx file with an “Answer” column for each type of question to store the model's responses. Please note that the responses to the questions should correspond to the prompts and question numbers. Once all responses have been collected, please submit the xlsx file to the review site. 
