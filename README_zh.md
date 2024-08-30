@@ -14,9 +14,9 @@ AstroBench是由xxx ACMIS实验室针对天文领域下大模型生成能力的�
 标号,题目文本,选项
 
 ## 论文及数据集下载
-AstroBenc论文 **待添加链接**<br>
-AstroBenc测试数据集下载地址 https://github.com/ACMISLab/AstroBench/tree/main/data<br>
-AstroBenc自动化评测地址 **待添加链接**<br>
+AstroBench论文 **待添加链接**<br>
+AstroBench测试数据集下载地址 https://github.com/ACMISLab/AstroBench/tree/main/data<br>
+AstroBench自动化评测地址 **待添加链接**<br>
 
 ## 💡 提示词
 以下是我们在论文中使用的提示。 也可以尝试自己设计的提示词！只需要在每个任务的python代码中更改提示，然后我们就可以看到结果。
