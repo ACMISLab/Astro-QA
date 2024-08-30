@@ -14,9 +14,9 @@ The dataset includes the following fields:
 ID,Question,Options
 
 ## Download papers and datasets
-AstroBenc Paper **Link to be added**<br>
-AstroBenc Download the test dataset https://github.com/ACMISLab/AstroBench/tree/main/data<br>
-AstroBenc Automated evaluation address **Link to be added**<br>
+AstroBench Paper **Link to be added**<br>
+AstroBench Download the test dataset https://github.com/ACMISLab/AstroBench/tree/main/data<br>
+AstroBench Automated evaluation address **Link to be added**<br>
 
 ## 💡 Prompt
 Below are the prompts we use in our papers. You can also try your own designed prompts! Just change the prompts in the python code for each task and then we can see the results.
