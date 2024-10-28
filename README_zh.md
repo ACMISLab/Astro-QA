@@ -1,13 +1,13 @@
-<h1 align="center"> <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> AstroBench </h1>
+<h1 align="center"> <img src="https://github.com/ACMISLab/AstroBench/blob/main/StarRipple.png" alt="AstroBench Logo" style="width: 100px; height: auto; vertical-align: middle; margin-right: 5px;"> Astro-QA </h1>
 
-**"AstroBench: A Evaluation Benchmark for Large Language Models in Astronomy"** 官方存储库。
+**"Astro-QA: A Evaluation Benchmark for Large Language Models in Astronomy"** 官方存储库。
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/overview.png)
 
 ## 🆕 新闻
 - \[**2024 年 6 月**\] 我们发布了第一个版本(v1)，非常高兴分享我们对天文大模型的研究与见解！
 
 ## 评测数据集简介
-AstroBench是由xxx ACMIS实验室针对天文领域下大模型生成能力的测试基准。在此项测试中，受测的中文大语言模型需要对天体物理学、天体力学、天文学、天文学史、天文学技术和方法这五个科目类别下的2709道不同类型问题做出准确且相关的回答。 我们设计了一套综合的打分系统，对于非计算题，每一道名词解释题和简答题都有标准参考答案，采用多个标准打分然后加权求和。对于客观题目，我们会提取最终最终答案，然后通过难度系数进行综合打分。
+Astro-QA是由xxx ACMIS实验室针对天文领域下大模型生成能力的测试基准。在此项测试中，受测的中文大语言模型需要对天体物理学、天体力学、天文学、天文学史、天文学技术和方法这五个科目类别下的2709道不同类型问题做出准确且相关的回答。 我们设计了一套综合的打分系统，对于非计算题，每一道名词解释题和简答题都有标准参考答案，采用多个标准打分然后加权求和。对于客观题目，我们会提取最终最终答案，然后通过难度系数进行综合打分。
 
 数据集包括以下字段：
 
@@ -15,7 +15,7 @@ AstroBench是由xxx ACMIS实验室针对天文领域下大模型生成能力的�
 
 ## 论文及数据集下载
 AstroBench论文 **待添加链接**<br>
-AstroBench测试数据集下载地址 https://github.com/ACMISLab/AstroBench/tree/main/data<br>
+AstroBench测试数据集下载地址 https://github.com/ACMISLab/Astro-QA/tree/main/data<br>
 AstroBench自动化评测地址 **待添加链接**<br>
 
 ## 💡 提示词
@@ -44,4 +44,4 @@ Jie Li: gs.lj23@gzu.edu.cn
 Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
 
 ## 使用许可证
-AstroBench 数据集的使用许可协议如下 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Astro-QA 数据集的使用许可协议如下 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
