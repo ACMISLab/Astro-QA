@@ -15,7 +15,7 @@ ID,Question,Options
 
 ## Download papers and datasets
 AstroBench Paper **Link to be added**<br>
-AstroBench Download the test dataset https://github.com/ACMISLab/AstroBench/tree/main/data<br>
+AstroBench Download the test dataset https://github.com/ACMISLab/Astro-QA/tree/main/data<br>
 AstroBench Automated evaluation address **Link to be added**<br>
 
 ## 💡 Prompt
