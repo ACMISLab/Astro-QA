@@ -63,8 +63,8 @@ If you find the code and testset are useful in your research, please consider ci
 ## 🤗 Contact us
 Jie Li: gs.lj23@gzu.edu.cn
 
-Fuyong Zhao: gs.fyzhao22@gzu.edu.cn
+Fuyong Zhao: gs.fyzhao22@gzu.edu.cn【https://creativecommons.org/licenses/by/4.0/
 
 ## License
-The Astro-QA dataset is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+The Astro-QA dataset is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
