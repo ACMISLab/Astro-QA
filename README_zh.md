@@ -36,11 +36,12 @@ Submit test samples.xlsx
 ## 引用
 如果您发现代码和测试集对您的研究有用，请考虑引用
 ```
-@article{krithara2023bioasq,
+@article{jieli2025astroqa,
   title={An astronomical question answering dataset for evaluating large language models},
   author={Jie Li, FuyongZhao, PanfengChen, JiafuXie, XiangruiZhang, Hui Li, MeiChen, YanhaoWang, MingZhu},
   journal={Scientific Data},
-  year={2025}
+  year={2025},
+  url={https://doi.org/10.1038/s41597-025-04613-9}
 } 
 ```
 ## 🤗 联系我们
