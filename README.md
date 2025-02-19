@@ -58,7 +58,13 @@ The site calculates scores automatically and you can choose whether or not to sy
 ## 🤗 Citation
 If you find the code and testset are useful in your research, please consider citing
 ```
-**References to be added**
+@article{jieli2025astroqa,
+  title={An astronomical question answering dataset for evaluating large language models},
+  author={Jie Li, FuyongZhao, PanfengChen, JiafuXie, XiangruiZhang, Hui Li, MeiChen, YanhaoWang, MingZhu},
+  journal={Scientific Data},
+  year={2025},
+  url={https://doi.org/10.1038/s41597-025-04613-9}
+} 
 ```
 ## 🤗 Contact us
 Jie Li: gs.lj23@gzu.edu.cn
