@@ -4,7 +4,8 @@ The official repository of **"Astro-QA: A Evaluation Benchmark for Large Languag
 ![image](https://github.com/ACMISLab/AstroBench/blob/main/overview.png)
 
 ## 🆕 News
-- \[**June 2024**\] We have released the first version (v1) and are very excited to share our research and insights into astronomical macromodeling!
+- \[**March 2025**\] Our paper **《An astronomical question answering dataset for evaluating large language models》** has been accepted to Scientific Data.
+- \[**June 2024**\] We have released the first version 1.0 and are very excited to share our research and insights into astronomical macromodeling!
 
 ## Review Dataset Introduction
 Astro-QA is a benchmark by xxx ACMIS Labs for large language model generation capabilities in the field of astronomy. In this test, the Chinese large language models tested are required to provide accurate and relevant answers to 2709 different types of questions under five subject categories: astrophysics, celestial mechanics, astronomy, history of astronomy, and astronomical techniques and methods. We have designed a comprehensive scoring system, for non-calculated questions, each of the terminology and short answer questions has a standardized reference answer, which is scored using multiple criteria and then weighted and summed. For objective questions, we extract the final answer and then combine the scores using a difficulty factor.
@@ -69,7 +70,7 @@ If you find the code and testset are useful in your research, please consider ci
 ## 🤗 Contact us
 Jie Li: gs.lj23@gzu.edu.cn
 
-Fuyong Zhao: gs.fyzhao22@gzu.edu.cn【https://creativecommons.org/licenses/by/4.0/
+Fuyong Zhao: gs.fyzhao24@gzu.edu.cn
 
 ## License
 The Astro-QA dataset is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
